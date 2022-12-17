@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anime-osusume-client/static/css/main.e6c13ad2.css",
+    "main.js": "/anime-osusume-client/static/js/main.668f1825.js",
+    "index.html": "/anime-osusume-client/index.html",
+    "main.e6c13ad2.css.map": "/anime-osusume-client/static/css/main.e6c13ad2.css.map",
+    "main.668f1825.js.map": "/anime-osusume-client/static/js/main.668f1825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.668f1825.js"
+  ]
+}
